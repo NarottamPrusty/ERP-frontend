@@ -46,8 +46,11 @@ Deployment
 
 - ### Screen
   - ## Home
-  ![click me](https://github.com/IMDADMI/inventory-management-system/blob/2-home-part/src/assets/Home.PNG?raw=true)
+  ![Screenshot (35)](https://github.com/NarottamPrusty/ERP-frontend/assets/98876486/043ccd9d-e75a-4473-8bf2-17df84f29bca)
+
   - ## Inventory
-  ![click me](https://github.com/IMDADMI/inventory-management-system/blob/3-inventory-part/src/assets/Home.PNG?raw=true)
+  ![Screenshot (36)](https://github.com/NarottamPrusty/ERP-frontend/assets/98876486/fd7712c2-83bd-4387-8172-a343cb5d1bfd)
+
   - ## order 
-  ![click me](https://github.com/IMDADMI/inventory-management-system/blob/4-order-part/src/assets/Home.PNG?raw=true)
+  ![Screenshot (37)](https://github.com/NarottamPrusty/ERP-frontend/assets/98876486/12198f3b-24f8-4629-a7dc-1a47f83bf713)
+
